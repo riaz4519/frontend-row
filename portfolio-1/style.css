@@ -381,7 +381,7 @@ article .icon {
   margin: 2rem auto;
   padding: 0.5rem;
 }
-.contact-info-container{
+.contact-info-container {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -403,9 +403,9 @@ article .icon {
 footer {
   height: 26vh;
   margin: 0 1rem;
-
 }
 footer p {
   text-align: center;
 }
 
+/*  */
