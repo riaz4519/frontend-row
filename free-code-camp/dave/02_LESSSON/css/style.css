@@ -1,28 +1,44 @@
-body {
+
+html{
     font-size: 22px;
 }
 
-h1,h2{
-    color: blue;
+
+body {
+  
 }
 
-p{
-    color: purple;
+main {
+
+
+    font-family: monospace;
+
 }
 
-p span{
-
-
-    text-transform: uppercase;
-    background-color: gold;
-
-
+h1,
+h2 {
+  color: blue;
 }
 
 .gray {
-    color: gray;
+  color: gray;
 }
 
+
+p {
+  color: purple;
+}
+
+p {
+    color: red;
+}
+
+.highlight {
+  text-transform: uppercase;
+  background-color: gold;
+}
+
+
 #second {
-    font-style: italic;
+  font-style: italic;
 }
