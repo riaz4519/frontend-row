@@ -14,4 +14,25 @@ body {
 
 .left {
   float: left;
+  margin-right: 1rem;
 }
+
+section {
+  background-color: bisque;
+  border: 1px solid #333;
+  padding: 1rem;
+  display: flow-root;
+  
+}
+
+.right {
+  float: right;
+  margin-left: 1rem;
+}
+
+
+.clear {
+  clear: both;
+}
+
+
